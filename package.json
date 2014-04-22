@@ -1,0 +1,21 @@
+{
+  "name": "everyday",
+  "version": "0.0.1",
+  "description": "everyday project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "everyday"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  },
+  "dependencies": {
+    "underscore": "^1.6.0",
+    "express": "^4.0.0"
+  }
+}
